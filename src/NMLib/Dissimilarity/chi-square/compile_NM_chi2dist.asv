@@ -1,0 +1,1 @@
+mex -v COMPFLAGS="$COMPFLAGS /arch:SSE2" NM_chi2dist.c
